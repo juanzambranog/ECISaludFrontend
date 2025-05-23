@@ -51,7 +51,6 @@ export default function AppointmentForm() {
     e.preventDefault();
     
     if (validateForm()) {
-      // Here you would typically make an API call to save the appointment
       console.log('Form submitted:', formData);
       router.push('/history');
     }
