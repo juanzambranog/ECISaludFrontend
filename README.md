@@ -1,3 +1,14 @@
+# Nombre
+    Juan David Zambrano Gonzalez
+
+# Grupo
+
+# Tecnologias
+
+![alt text](public/image.png)
+
+# Explicacion 
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
